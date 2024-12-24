@@ -38,3 +38,4 @@ with open('input.jpg', 'rb') as f:
 face_detection(image)
 
 
+print("test")
